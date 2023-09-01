@@ -1,0 +1,7 @@
+{
+   "KEY": 12345,
+   "TELEGRAM":{
+   	"API_TOKEN":"",
+   	"CHAT_ID":""
+   }
+}
